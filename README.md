@@ -14,7 +14,11 @@ npm command :
 To publish your project, first test it "npm tun test", as second convert to javascirpt "npm run build", as third test the real server "npm run start".
 
 # how to use
-The "dist" folder is where the javascript code will go, you have to modify the src folder.
+Download the template : https://github.com/mtttia/template-expressjs-typescript/releases/download/first/template-expressjs-typescript.zip
+Do :
+- go to package.json and change "name" DO THIS THINK AS FIRST THINK
+- run "npm install" to install all the dipendency
+- if you want to use git in your project, download git and run "git init" on the folder
 
 All the folder :
 - dist    : where the javascipt code will go
