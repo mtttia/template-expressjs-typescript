@@ -2,7 +2,7 @@
 A starter template for nodejs and expressjs for use typescritp, view engine=ejs
 
 # How to use
-Download the template : https://github.com/mtttia/template-expressjs-typescript/releases/download/first/template-expressjs-typescript.zip
+Download the template : https://github.com/mtttia/template-expressjs-typescript/releases/download/first_1/template-expressjs-typescript.zip
 
 Do :
 - go to package.json and change "name" DO THIS THINK AS FIRST THINK
