@@ -21,7 +21,7 @@ To publish your project, first test it "npm tun test", as second convert to java
 
 All the folder :
 - dist    : where the javascipt code will go
-- public  : where there will the css, js and image code that will go on the server
+- public  : where there will be the css, js and image code that will be sent to the client
 - src     : where you have to write the typescript code
      - bin     : where there is the file that node will load
      - routes  : where there will be all the routes that the server have
